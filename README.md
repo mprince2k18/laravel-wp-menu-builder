@@ -1,7 +1,6 @@
 # Laravel 9 Drag and Drop menu editor like wordpress
 
-[![Latest Stable Version](https://poser.pugx.org/mprince2k18/laravel-wp-menu-builder
-/v/stable)](https://packagist.org/packages/mprince2k18/laravel-wp-menu-builder) [![Latest Unstable Version](https://poser.pugx.org/mprince2k18/laravel-wp-menu-builder/v/unstable)](https://packagist.org/packages/mprince2k18/laravel-wp-menu-builder) [![Total Downloads](https://poser.pugx.org/mprince2k18/laravel-wp-menu-builder/downloads)](https://packagist.org/packages/mprince2k18/laravel-wp-menu-builder) [![Monthly Downloads](https://poser.pugx.org/mprince2k18/laravel-wp-menu-builder/d/monthly)](https://packagist.org/packages/mprince2k18/laravel-wp-menu-builder)
+[![Latest Stable Version](https://poser.pugx.org/mprince2k18/laravel-wp-menu-builder/v/stable)](https://packagist.org/packages/mprince2k18/laravel-wp-menu-builder) [![Latest Unstable Version](https://poser.pugx.org/mprince2k18/laravel-wp-menu-builder/v/unstable)](https://packagist.org/packages/mprince2k18/laravel-wp-menu-builder) [![Total Downloads](https://poser.pugx.org/mprince2k18/laravel-wp-menu-builder/downloads)](https://packagist.org/packages/mprince2k18/laravel-wp-menu-builder) [![Monthly Downloads](https://poser.pugx.org/mprince2k18/laravel-wp-menu-builder/d/monthly)](https://packagist.org/packages/mprince2k18/laravel-wp-menu-builder)
 
 ### Installation
 
