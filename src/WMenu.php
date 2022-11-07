@@ -1,10 +1,10 @@
 <?php
 
-namespace Harimayco\Menu;
+namespace Mprince\Menu;
 
 use App\Http\Requests;
-use Harimayco\Menu\Models\Menus;
-use Harimayco\Menu\Models\MenuItems;
+use Mprince\Menu\Models\Menus;
+use Mprince\Menu\Models\MenuItems;
 use Illuminate\Support\Facades\DB;
 
 class WMenu
