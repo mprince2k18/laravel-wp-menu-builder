@@ -2,6 +2,7 @@
     "name": "mprince2k18/laravel-wp-menu-builder",
     "description": "drag and drop menu generator like wordpress for laravel 9",
     "keywords": ["Laravel", "Menu", "Wordpress", "Builder"],
+    "license": "MIT",
     "authors": [
     	{
             "name": "Mohammad Prince",
